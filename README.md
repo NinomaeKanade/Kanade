@@ -1,8 +1,6 @@
-# Kanade
-
 <img src="https://www.gamelab.id/uploads/modules/3%20(8).jpg?1638853694406" alt="frontend" style="width:70%">
 
-<h1 align="left">Introduction</h1>
+<h1 align="left">Kanade</h1>
 Hello, I'm Kanade, a student majoring in informatics who wants to become a professional frontend developer :cat:
 
 <h3 align="left">My social media:</h3>
