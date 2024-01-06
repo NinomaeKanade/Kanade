@@ -18,7 +18,3 @@ Hello, I'm Kanade, a student majoring in informatics who wants to become a profe
   <a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
   <a href="https://www.freecodecamp.org/learn/scientific-computing-with-python/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/> </a> 
 </p>
-
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zyxcid&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
-</a>
